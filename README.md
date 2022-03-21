@@ -89,11 +89,11 @@ In this section, you create IBM Cloud functions that can help you run your appli
 ### Create the API key
 
 1. Click **Manage** next to your account name, and in the drop-down list, click **Access (IAM)**.
-  ![AccessIAM](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/parameters%201.png?raw=true)
+  ![AccessIAM](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/parameters%201-min.png?raw=true)
 1. Click **API keys** on the left.
 1. Click **Create** and give a name to the API key. Copy and save the API key because you will not be able to see it again. You can also download the API key.
 
-  ![createApiKey](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/createapikey.png)
+  ![createApiKey](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/paramerters%202.png?raw=true)
 
 ### Create IBM Cloud Functions
 
