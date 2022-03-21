@@ -103,9 +103,9 @@ In this section, you create IBM Cloud functions that can help you run your appli
   ![namespace](images/namespace.png)
 1. On the Action tab, click **Create** and then click **Action**.
 1. Give the action a name, choose the default package and a runtime of your choice (in our case, we use Python 3.7), and then click **Create**.
-  ![action](images/create action.png)
+  ![action](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/create%20action.png)
 1. When the action is created, go to the Parameters tab and add the API key that you previously created and click **Save**.
-  ![Add-api-key](images/parameters 3.png)
+  ![Add-api-key](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/parameters%203.png)
 1. Copy the following code and paste it under the Code tab.
 
 ```python
