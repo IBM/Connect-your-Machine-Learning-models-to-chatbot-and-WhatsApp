@@ -207,7 +207,7 @@ In the following line, replace the link with your machine learning deployment li
 On the Endpoints tab, select **Enable** as the web action and copy the public URL.
 
 For testing purposes, in the previous code listing, you can replace the values in the JSON section with any value from the data set and invoke the function to get an output.
-  ![Invoke Functions](images/functions new pic.png)
+  ![Invoke Functions](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/invoke%20functions.png)
 
 ## Integrate the machine learning model with Watson Assistant
 
@@ -217,18 +217,18 @@ In this section, you create a Watson Assistant instance, add the skill, and then
 
 1. Within your IBM Cloud account, enter `Watson Assistant` in the top search bar. Click **Watson Assistant** from the catalog results.
 1. On the Watson Studio service page, select a region (make sure all your services are in the same region), the Lite plan (Free), and give your service a unique name. Click **Create** to create a Watson Assistant instance.
-  ![Create-Assistant](images/create assistant.png)
+  ![Create-Assistant](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/create%20assistant.png)
 1. When the service instance is ready, you are redirected to the Watson Assistant page. Click **Launch Assistant** to launch Watson Assistant in a new tab. It might take a few minutes to set up the service.
 1. Click **Assistants** and then **Create**.
 1. Give your assistant a name and click **Create**.
 1. When your Assistant is created, click **Add an actions or dialog skill**.
-  ![Add-dialog-skill](images/add dialog skill.png)
+  ![Add-dialog-skill](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/add%20dialog%20skill.png)
 1. Click the **Upload skill** tab.
-  ![Upload-Skill](images/upload skill.png)
+  ![Upload-Skill](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/upload%20skill.png)
 
 Your machine learning model is now connected to your Watson Assistant. You can click **Preview** to test it out.
 
-![Preview-Assistant](images/preview assistant.png)
+![Preview-Assistant](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/preview%20assistant.png)
 
 ![solution final gif](images/assitant.gif)
 
