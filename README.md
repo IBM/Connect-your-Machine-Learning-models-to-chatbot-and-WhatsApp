@@ -14,7 +14,7 @@ This tutorial shows you how to automate the loan application process using:
 To follow along with this tutorial, you need the following:
 
 * An <a href="https://cloud.ibm.com/registration?cm_sp=ibmdev-_-developer-tutorials-_-cloudreg" target="_blank" rel="noopener noreferrer">IBM Cloud account</a>
-* A <a href="https://www.twilio.com/try-twilio" target="_blank" rel="noopener noreferrer">Twilio account</a>
+* A <a href="https://ibm.biz/tryTwilio" target="_blank" rel="noopener noreferrer">Twilio account</a>
 * Access to the <a href="https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp" target="_blank" rel="noopener noreferrer">GitHub repository</a> for this tutorial
 
 ## Create the Watson Studio service
