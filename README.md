@@ -52,10 +52,10 @@ In this section, you create a machine learning instance, connect it to your proj
 1. On the **Data source** tab, you can omit certain columns from your experiment. Leave all of the columns. You can also select the training data split, which defaults to 85% training data. The **Data source** tab also shows which metric you optimize for. For the Binary classification, and for other types of experiments such as regression, it is Root Mean Squared Error (RMSE); AutoAI defaults to Accuracy for the optimized metric. Either way, you can change the metric from this tab depending on your use case.
 1. Depending on your use case, change any other experiment details on the **Runtime** tab from the Experiment settings.
 1. When you are happy with your settings, check that you are predicting for expenses and then click **Run Experiment** on the bottom-right corner of the screen.
-  ![gif 4](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/gif%204.gif)
+  ![gif 4](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/new%20gif%204.gif)
 
   Your AutoAI experiment runs on its own. You see a progress map on the right side of the screen that shows which stage of the experiment is running. This could be Hyperparameter Optimization, feature engineering, or some other stage.
-  ![gif 5](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/gif%205.gif)
+  ![gif 5](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/new%20gif%205.gif)
   You have different pipelines that are created, and you see the rankings of each model. Each model is ranked based on the metric that you selected. In this specific case, that is accuracy. Given that you want that number to be as high as possible, you can see that in the experiment, the model with the highest accuracy is at the top of the leaderboard.
 
   When the experiment is finished, you see a message that the experiment completed under the Progress map on the right-hand side of the screen. The AutoAI has successfully generated 8 different models.
@@ -72,7 +72,7 @@ In this section, you create a machine learning instance, connect it to your proj
 1. On the Promote to space page, you need a target space to promote your model. Click **New space +** on the right side of your screen.
 1. On the Create a deployment space screen, give your space a name, make sure the correct Cloud object storage is selected, and choose your machine learning service instance. For this experiment, selecting the machine learning service is mandatory because you need to build a prediction model. Click **Create**.
 1. When the space is ready, close the pop-up window and you are redirected to the Promote to space page. You see your newly created space under the Target space. When you're happy with your selections, click **Promote**.
-  ![gif 6](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/gif%206.gif)
+  ![gif 6](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/new%20gif%206.gif)
 1. When the model is successfully promoted, in the green notification box, click on the deployment space. Alternatively, you can also find your deployment spaces when you click on the hamburger sign on the top left most side on your screen.
 1. You are redirected to the Deployments page, where you can find your promoted model. Hover your mouse pointer over the row to see a rocket shaped icon, and then click on the icon to deploy your model.
 1. In the dialog box, select **Online** as your deployment type, give your deployment a name, and click **Create**.
@@ -80,7 +80,7 @@ In this section, you create a machine learning instance, connect it to your proj
 1. When the deployment is completed, click on the name of your deployment. On this page, you find the API references, endpoint, and code snippets to help you integrate your model with your applications. Copy the endpoint of your model and save it (you need it later).
   ![deployment-link](images/deployment link.png)
 1. To test your model, click the Test tab. You can select a row from the data set and enter the data in the fields. Enter the values from the data set, and then click **Add to Predict** and then click **Predict**.
-  ![gif 7](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/gif%207.gif)
+  ![gif 7](https://github.com/IBM/Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp/blob/main/images/new%20gif%207.gif)
 
 ## Set up IBM Cloud Functions
 
