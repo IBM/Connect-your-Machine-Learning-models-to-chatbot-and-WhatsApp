@@ -1,4 +1,4 @@
-# Connect-your-Machine-Learning-models-to-chatbot-and-WhatsApp
+# Connect your Machine Learning models to chatbot and WhatsApp
 
 
 In a bank's loan department, a customer's application can undergo a lengthy process before it is approved or rejected. This process can be so time-consuming that customers often switch to other competitors, resulting in a loss for the bank. However, you can use machine learning solutions to reduce the time it takes to make these decisions and increase the accuracy of the decisions being made -- thereby increasing your customer base. If you implement machine learning the right way, it can also help mitigate bias. In addition, you can use chatbots to increase productivity and provide a better customer experience. Chatbots can improve the customer journey at various stages by responding quickly and efficiently to frequently asked questions or by seamlessly escalating requests with the full context of the query to a human agent.
